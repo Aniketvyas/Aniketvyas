@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enthusiastic software developer with a<br>strong background in designing scalable<br>applications and optimizing system<br>performance, eager to contribute to a team<br>that values collaboration, innovative<br>solutions and Design Thinking. Skilled in<br>product management using Java, Python,<br>and React, with a proven ability to manage<br>complex projects and enhance efficiency<br>using Object-Oriented Programming.<br>Excited to leverage my technical expertise<br>in a dynamic environment that encourages<br>continuous learning and creativity, aligning<br>technology with user needs for impactful<br>results.
+Enthusiastic software developer with a strong background in designing scalable applications and optimizing system performance, eager to contribute to a team that values collaboration, innovative solutions, and Design Thinking. Skilled in product management using Java, Python, and React, with a proven ability to manage complex projects and enhance efficiency using Object-Oriented Programming. I am excited to leverage my technical expertise in a dynamic environment that encourages continuous learning and creativity, aligning technology with user needs for impactful results.
 
 
 ## 🌐 Socials:
